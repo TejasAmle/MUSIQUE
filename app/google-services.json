@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "6632142795",
+    "firebase_url": "https://musique-cf5cb.firebaseio.com",
+    "project_id": "musique-cf5cb",
+    "storage_bucket": "musique-cf5cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6632142795:android:2d4a4274dabac4ee",
+        "android_client_info": {
+          "package_name": "amle.tejas.musique"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "6632142795-07jfipnkdlc80oqq5s4j197eo2ppkc8l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "amle.tejas.musique",
+            "certificate_hash": "dab3773ea48c7a845d04043732e8e83a3fff611e"
+          }
+        },
+        {
+          "client_id": "6632142795-4aho28lvssk7g86rp1s8668jplqk3qd1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0D7ivQFPDFa4oWie0-JlPQFe0xKIz780"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "6632142795-4aho28lvssk7g86rp1s8668jplqk3qd1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
